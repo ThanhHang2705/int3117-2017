@@ -30,4 +30,7 @@ Các nhóm, chuẩn bị slides, trình bày lại trước lớp vào buổi h�
 
 - TriH: Công cụ Cross Browser Testing 
   Link giới thiệu va demo: https://www.youtube.com/watch?v=nyyR3aJHNFY&feature=youtu.be
+  
+ - Report : Công cụ Browsershots
+  Link giới thiệu : https://www.youtube.com/watch?v=8cZq1FZXBAE&t=5s
 
